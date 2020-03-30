@@ -1,0 +1,11 @@
+1> Run the file "CRYPT_FINAL_PROJECT.py"
+
+2> Type in your problem into the text box at the bottom of the window. use the correct format 
+   example : SEND + MORE = MONEY. (make sure the spaces and operators are inserted)
+
+3> Press Enter key or the small send button at the corner.
+
+4> Wait till the program computes the value of each character, it may take some time so
+   be patient.
+
+5> Again enter another problem if desired.
